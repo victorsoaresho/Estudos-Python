@@ -1,6 +1,7 @@
 # Criando Produtos (Python)
 
-Robo em python que realiza o cadastro de produtos em um ERP de uma empresa fictícia. 
+Robô em python que realiza o cadastro de produtos em um ERP de uma empresa fictícia. <br>
+<b>OBS: O arquivo que deve ser execultado é o <i>robozinho.py!<i><b>
 
 ## 🚀 Começando
 
