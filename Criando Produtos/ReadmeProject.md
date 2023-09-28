@@ -10,15 +10,15 @@ Para execultar o projeto se faz necessário que você possua uma IDE que consiga
 
 ### 📋 Pré-requisitos
 
-Acesso a internet
-Ambiente de desenvolvimento
+*Acesso a internet
+*Ambiente de desenvolvimento
 
 ## 🛠️ Construído com
 
 Foi utilizadas as seguintes bibliotecas:
 
-Pandas
-Time
+Pandas,
+Time,
 Pyautogui
 
 ## ✒️ Autores
