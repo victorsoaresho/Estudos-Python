@@ -15,7 +15,7 @@ Para execultar o projeto se faz necessário que você possua uma IDE que consiga
 
 ## 🛠️ Construído com
 
-Foi utilizadas as seguintes bibliotecas:
+Foram utilizadas as seguintes bibliotecas:
 
 Pandas,
 Time,
