@@ -27,7 +27,7 @@ pyautogui.click()
 
 #Trabalhando com dados
 
-tabela = pandas.read_csv("produtos.csv")
+tabela = pandas.read_csv("C:/Users/victo/OneDrive/Área de Trabalho/Python/Estudos-Python/Criando Produtos/produtos.csv")
 print(tabela)
 
 #Cadastrando Produtos
